@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+    "peerStart": "peerjs --port 3001" 
   },
   "repository": {
     "type": "git",
